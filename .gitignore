@@ -1,0 +1,2 @@
+*.ckpt
+stable-diffusion-rocm-docker/
